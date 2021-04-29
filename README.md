@@ -7,6 +7,10 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 - 🤔 Daher ist alles was hier zu sehen sein wird echt nicht besonders professionell sondern einfach nebenbei entstanden und für meine persönliche Belustigung - also nicht zu viel erwarten
 - ⚡ Zum Abschluss noch nen Fun Fact: Die ersten Rettungswagenfahrer waren tatsächlich Leichenwagenfahrer. Sie mussten früher das ein oder andere Mal den Totgeglaubten ins Krankenhaus fahren, weil dieser tatsächlich noch lebte.
 
+Mfg
+
+![alt text](https://img.hypax.wtf/hpxpurplesiganture.png "Hypax Signature")
+
 <!--
 **hypaxx/hypaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
