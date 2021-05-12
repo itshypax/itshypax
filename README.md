@@ -7,6 +7,10 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 - 🤔 Daher ist alles was hier zu sehen sein wird echt nicht besonders professionell sondern einfach nebenbei entstanden und für meine persönliche Belustigung - also nicht zu viel erwarten
 - ⚡ Zum Abschluss noch nen Fun Fact: Die ersten Rettungswagenfahrer waren tatsächlich Leichenwagenfahrer. Sie mussten früher das ein oder andere Mal den Totgeglaubten ins Krankenhaus fahren, weil dieser tatsächlich noch lebte.
 
+[![](https://img.shields.io/twitter/follow/hypaxmda?label=Twitter&style=social)](https://twitter.com/hypaxmda)
+[![](https://img.shields.io/github/followers/hypaxx?label=Github&style=social)](https://github.com/hypaxx)
+[![](https://img.shields.io/website?label=hypax.wtf&up_message=up&url=https%3A%2F%2Fhypax.wtf)](https://hypax.wtf)
+
 Mfg
 
 ![alt text](https://img.hypax.wtf/hpxpurplesiganture.png "Hypax Signature")
