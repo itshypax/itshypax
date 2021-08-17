@@ -13,7 +13,7 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 
 Mfg
 
-![alt text](https://img.hypax.wtf/hpxpurplesiganture.png "Hypax Signature")
+![alt text](https://cdn.upload.systems/uploads/G7Qc1Iv1.png "Hypax Signature")
 
 <!--
 **hypaxx/hypaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
