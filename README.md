@@ -8,7 +8,7 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 - ⚡ Zum Abschluss noch nen Fun Fact: Die ersten Rettungswagenfahrer waren tatsächlich Leichenwagenfahrer. Sie mussten früher das ein oder andere Mal den Totgeglaubten ins Krankenhaus fahren, weil dieser tatsächlich noch lebte.
 
 ### 🎧 Ich höre gerade
-[![Spotify](https://novatorem-hypaxx.vercel.app/api/spotify)](https://open.spotify.com/user/hayapax)
+[![Spotify](https://novatorem-rehr7af99-hypaxx.vercel.app/api/spotify)](https://open.spotify.com/user/hayapax)
 
 [![](https://img.shields.io/twitter/follow/josually?label=Twitter&style=social)](https://twitter.com/josually)
 [![](https://img.shields.io/github/followers/hypaxx?label=Github&style=social)](https://github.com/hypaxx)
