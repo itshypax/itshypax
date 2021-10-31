@@ -13,11 +13,3 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 [![](https://img.shields.io/twitter/follow/josually?label=Twitter&style=social)](https://twitter.com/josually)
 [![](https://img.shields.io/github/followers/hypaxx?label=Github&style=social)](https://github.com/hypaxx)
 [![](https://img.shields.io/website?label=hypax.wtf&up_message=up&url=https%3A%2F%2Fhypax.wtf)](https://hypax.wtf)
-
-Mfg
-
-![alt text](https://cdn.upload.systems/uploads/G7Qc1Iv1.png "Hypax Signature")
-
-<!--
-**hypaxx/hypaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
