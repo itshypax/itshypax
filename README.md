@@ -12,7 +12,7 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 
 <br />
 
-<div align="center">
+<div>
 <a href="https://github.com/hypaxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -23,6 +23,6 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.twitch.tv/josually" target="_blank">
-<img src=https://img.shields.io/badge/twitter-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white&labelColor=#fff alt=twitch style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white&labelColor=#fff alt=twitch style="margin-bottom: 5px;" />
 </a>  
 </div>
