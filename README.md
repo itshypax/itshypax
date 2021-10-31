@@ -1,4 +1,4 @@
-## Hallöchen 👋
+![header](https://github.com/hypaxx/hypaxx/blob/main/header.png?raw=true "header")
 
 Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider wenig spannendes. Außer ein paar wenige Repos zu Webentwicklungs-Projekten von mir wird hier wahrscheinlich nicht viel zu finden sein. Aber wie man so schön sagt, you never know!
 
@@ -7,9 +7,22 @@ Schön, dass du es auf mein GitHub Profil geschafft hast. Hier gibt's nur leider
 - 🤔 Daher ist alles was hier zu sehen sein wird echt nicht besonders professionell sondern einfach nebenbei entstanden und für meine persönliche Belustigung - also nicht zu viel erwarten
 - ⚡ Zum Abschluss noch nen Fun Fact: Die ersten Rettungswagenfahrer waren tatsächlich Leichenwagenfahrer. Sie mussten früher das ein oder andere Mal den Totgeglaubten ins Krankenhaus fahren, weil dieser tatsächlich noch lebte.
 
-### 🎧 Ich höre gerade
-[![Spotify](https://novatorem-rehr7af99-hypaxx.vercel.app/api/spotify)](https://open.spotify.com/user/hayapax)
+<!--[![Spotify](https://novatorem-rehr7af99-hypaxx.vercel.app/api/spotify)](https://open.spotify.com/user/hayapax)-->
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hayapax&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
-[![](https://img.shields.io/twitter/follow/josually?label=Twitter&style=social)](https://twitter.com/josually)
-[![](https://img.shields.io/github/followers/hypaxx?label=Github&style=social)](https://github.com/hypaxx)
-[![](https://img.shields.io/website?label=hypax.wtf&up_message=up&url=https%3A%2F%2Fhypax.wtf)](https://hypax.wtf)
+<br />
+
+<div align="center">
+<a href="https://github.com/hypaxx" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/josually" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/josually" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.twitch.tv/josually" target="_blank">
+<img src=https://img.shields.io/badge/twitter-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white&labelColor=#fff alt=twitch style="margin-bottom: 5px;" />
+</a>  
+</div>
