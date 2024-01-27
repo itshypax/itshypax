@@ -16,7 +16,7 @@
 
 
 ### Ein paar Infos über mich:
-- 🏥 Ich arbeite als Pflegekraft in einem deutschen Krankenhaus
+- 🚑 Ich arbeite im Rettungsdienst
 - 🤔 Daher ist alles was hier zu sehen sein wird echt nicht besonders professionell sondern einfach nebenbei entstanden und für meine persönliche Belustigung - also nicht zu viel erwarten
 - ⚡ Zum Abschluss noch nen Fun Fact: Die ersten Rettungswagenfahrer waren tatsächlich Leichenwagenfahrer. Sie mussten früher das ein oder andere Mal den Totgeglaubten ins Krankenhaus fahren, weil dieser tatsächlich noch lebte.
 
