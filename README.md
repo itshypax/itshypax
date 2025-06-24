@@ -12,12 +12,12 @@ Everything you see here will not be professional, but simply created on the side
 <h4 align="left">Stats</h4>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=transparent&title_color=9147ff&text_color=fff&icon_color=9147ff&hide_border"
+    srcset="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=transparent&title_color=9147ff&text_color=fff&icon_color=9147ff&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=dark&title_color=9147ff&text_color=fff&icon_color=9147ff&hide_border"
+    srcset="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=dark&title_color=9147ff&text_color=fff&icon_color=9147ff"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=transparent&title_color=9147ff&text_color=fff&icon_color=9147ff&hide_border" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itshypax&show_icons=true&theme=transparent&title_color=9147ff&text_color=fff&icon_color=9147ff&hide_border=true" />
 </picture>
